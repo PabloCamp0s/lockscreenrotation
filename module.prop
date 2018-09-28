@@ -1,7 +1,7 @@
-id=template
-name=Template Module
+id=lockscreenrotation
+name=Lockscreen Rotation
 version=v1
 versionCode=1
-author=topjohnwu
-description=A short description
+author=Ender
+description=Enable rotation of lockscreen
 minMagisk=17000
